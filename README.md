@@ -1,4 +1,4 @@
-# 23071A3257-OS-16
+
 Interprocess Communication using Sockets in C
 Introduction
 This project demonstrates interprocess communication (IPC) using sockets in C. It includes both UNIX domain socket and TCP/IP socket implementations, enabling message exchange between a client and a server.
